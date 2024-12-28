@@ -54,6 +54,7 @@ namespace Yurt360
                 logger.Log("Error", $"({tCKimlik}): Arızalar listelenirken hata oluştu: {ex.Message}");
                 MessageBox.Show("Hata: " + ex.Message);
              }
+            //ilknurs
         }
 
 
